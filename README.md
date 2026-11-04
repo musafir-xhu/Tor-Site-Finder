@@ -1,7 +1,6 @@
 # Tor Site Finder
 
-Rust CLI that scrapes Tor .onion sites from multiple search engines by keyword
-
+Rust CLI that finds Tor .onion links by keyword and checks if they are online
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d6e578e0-cad9-437b-9c3b-f6eb4bbd6686" alt="Tor Link Finder" width="100%">
